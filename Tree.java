@@ -44,7 +44,7 @@ class Tree {
   else {
     doLeavesFall = "does not";
   }
-  System.out.println("This is a " + treeName + ". It is a " + treeType + " and its leaves are currently " + leafColor +  ". It " + doLeavesFall + " lose its leaves for the winter.");
+  System.out.println("This is a " + treeName + " tree . It is a " + treeType + " and its leaves are currently " + leafColor +  ". It " + doLeavesFall + " lose its leaves for the winter.");
   }
 
   Tree() {
